@@ -1,0 +1,81 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+}
+
+ nav {
+  text-align: center;
+  background-color: rgb(0, 204, 0);
+  width: 1000px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  display:
+}
+
+.black-box {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  width: 1200px;
+  height: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+#logo {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+  display: block;
+  width: 20%;
+  height: 20%;
+}
+
+h1 {
+  color: rgb(0, 204, 0);
+  text-align: center;
+  margin: 5px;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+  display: inline;
+  color: white;
+  margin: 5px;
+}
+
+span {
+  color: white;
+  margin: 2px;
+  display: block;
+}
+
+.bar1 {
+  background-color: rgb(255, 204, 102);
+  border-radius: 5px;
+  width: 350px;
+  height: 30px;
+}
+
+.bar2 {
+  background-color: rgb(51, 204, 51);
+  border-radius: 5px;
+  width: 600px;
+  height: 30px;
+}
+
+.bar3 {
+  background-color: rgb(204, 0, 0);
+  border-radius: 5px;
+  width: 150px;
+  height: 30px;
+}
+
+.Vehicle {
+  padding-left: 100px;
+  font-family: 'Trebuchet MS', sans-serif;
+}
